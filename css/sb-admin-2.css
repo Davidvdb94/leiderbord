@@ -10383,7 +10383,8 @@ a:focus {
   z-index: 1;
 }
 
-.sidebar .sidebar-brand .sidebar-brand-icon i {
+.sidebar .sidebar-brand .
+ i {
   font-size: 2rem;
 }
 
@@ -10457,6 +10458,12 @@ a:focus {
   .sidebar .sidebar-brand .sidebar-brand-icon i {
     font-size: 2rem;
   }
+
+  .sidebar .sidebar-brand .sidebar-brand-image img {
+    max-width: 10%;
+  }
+
+
   .sidebar .sidebar-brand .sidebar-brand-text {
     display: inline;
   }
